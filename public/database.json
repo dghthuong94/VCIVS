@@ -1,0 +1,217 @@
+{
+  "voices": [
+    {
+      "id": 1,
+      "name": "Voice 1",
+      "defaultAudio": "./audio/default/giong1.wav",
+      "texts": [
+        {
+          "id": 1,
+          "text": "Sentence 1",
+          "content": "Ngày xửa, ngày xưa, có một cô bé thường hay quàng chiếc khăn màu đỏ, vì vậy, mọi người gọi cô là cô bé quàng khăn đỏ",
+          "audioMethod1": "./audio/giong1/giong1_newvoice_01.wav",
+          "audioMethod2": "./audio/giong1/giong1_clone1.wav"
+        },
+        {
+          "id": 2,
+          "text": "Sentence 2",
+          "content": "May sao, lúc đó bác thợ săn đi ngang thấy thế. Bác giơ súng lên định bắn.",
+          "audioMethod1": "./audio/giong1/giong1_newvoice_02.wav",
+          "audioMethod2": "./audio/giong1/giong1_clone2.wav"
+        },
+        {
+          "id": 3,
+          "text": "Sentence 3",
+          "content": "Cô bé quàng khăn đỏ ơi, lúc nãy tôi nghe mẹ cô dặn đi đường thẳng, đừng đi đường vòng cơ mà.",
+          "audioMethod1": "./audio/giong1/giong1_newvoice_03.wav",
+          "audioMethod2": "./audio/giong1/giong1_clone3.wav"
+        },
+        {
+          "id": 4,
+          "text": "Sentence 4",
+          "content": "Trên đường đi, cô thấy đường vòng qua rừng có nhiều hoa, nhiều bướm, không nghe lời mẹ dặn, cô tung tăng đi theo đường đó.",
+          "audioMethod1": "./audio/giong1/giong1_newvoice_04.wav",
+          "audioMethod2": "./audio/giong1/giong1_clone4.wav"
+        },
+        {
+          "id": 5,
+          "text": "Sentence 5",
+          "content": "Nghe xong, chó sói bỏ cô bé quàng khăn đỏ ở đấy rồi chạy một mạch đến nhà bà ngoại cô bé.",
+          "audioMethod1": "./audio/giong1/giong1_newvoice_05.wav",
+          "audioMethod2": "./audio/giong1/giong1_clone5.wav"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Voice 2",
+      "defaultAudio": "./audio/default/giong2.m4a",
+      "texts": [
+        {
+          "id": 1,
+          "text": "Sentence 1",
+          "content": "Ngày xửa, ngày xưa, có một cô bé thường hay quàng chiếc khăn màu đỏ, vì vậy, mọi người gọi cô là cô bé quàng khăn đỏ",
+          "audioMethod1": "./audio/giong2/giong2_newvoice_01.wav",
+          "audioMethod2": "./audio/giong2/giong2_clone1.wav"
+        },
+        {
+          "id": 2,
+          "text": "Sentence 2",
+          "content": "May sao, lúc đó bác thợ săn đi ngang thấy thế. Bác giơ súng lên định bắn.",
+          "audioMethod1": "./audio/giong2/giong2_newvoice_02.wav",
+          "audioMethod2": "./audio/giong2/giong2_clone2.wav"
+        },
+        {
+          "id": 3,
+          "text": "Sentence 3",
+          "content": "Cô bé quàng khăn đỏ ơi, lúc nãy tôi nghe mẹ cô dặn đi đường thẳng, đừng đi đường vòng cơ mà.",
+          "audioMethod1": "./audio/giong2/giong2_newvoice_03.wav",
+          "audioMethod2": "./audio/giong2/giong2_clone3.wav"
+        },
+        {
+          "id": 4,
+          "text": "Sentence 4",
+          "content": "Trên đường đi, cô thấy đường vòng qua rừng có nhiều hoa, nhiều bướm, không nghe lời mẹ dặn, cô tung tăng đi theo đường đó.",
+          "audioMethod1": "./audio/giong2/giong2_newvoice_04.wav",
+          "audioMethod2": "./audio/giong2/giong2_clone4.wav"
+        },
+        {
+          "id": 5,
+          "text": "Sentence 5",
+          "content": "Nghe xong, chó sói bỏ cô bé quàng khăn đỏ ở đấy rồi chạy một mạch đến nhà bà ngoại cô bé.",
+          "audioMethod1": "./audio/giong2/giong2_newvoice_05.wav",
+          "audioMethod2": "./audio/giong2/giong2_clone5.wav"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Voice 3",
+      "defaultAudio": "./audio/default/giong3.mp3",
+      "texts": [
+        {
+          "id": 1,
+          "text": "Sentence 1",
+          "content": "Ngày xửa, ngày xưa, có một cô bé thường hay quàng chiếc khăn màu đỏ, vì vậy, mọi người gọi cô là cô bé quàng khăn đỏ",
+          "audioMethod1": "./audio/giong3/giong3_newvoice_01.wav",
+          "audioMethod2": "./audio/giong3/giong3_clone1.wav"
+        },
+        {
+          "id": 2,
+          "text": "Sentence 2",
+          "content": "May sao, lúc đó bác thợ săn đi ngang thấy thế. Bác giơ súng lên định bắn.",
+          "audioMethod1": "./audio/giong3/giong3_newvoice_02.wav",
+          "audioMethod2": "./audio/giong3/giong3_clone2.wav"
+        },
+        {
+          "id": 3,
+          "text": "Sentence 3",
+          "content": "Cô bé quàng khăn đỏ ơi, lúc nãy tôi nghe mẹ cô dặn đi đường thẳng, đừng đi đường vòng cơ mà.",
+          "audioMethod1": "./audio/giong3/giong3_newvoice_03.wav",
+          "audioMethod2": "./audio/giong3/giong3_clone3.wav"
+        },
+        {
+          "id": 4,
+          "text": "Sentence 4",
+          "content": "Trên đường đi, cô thấy đường vòng qua rừng có nhiều hoa, nhiều bướm, không nghe lời mẹ dặn, cô tung tăng đi theo đường đó.",
+          "audioMethod1": "./audio/giong3/giong3_newvoice_04.wav",
+          "audioMethod2": "./audio/giong3/giong3_clone4.wav"
+        },
+        {
+          "id": 5,
+          "text": "Sentence 5",
+          "content": "Nghe xong, chó sói bỏ cô bé quàng khăn đỏ ở đấy rồi chạy một mạch đến nhà bà ngoại cô bé.",
+          "audioMethod1": "./audio/giong3/giong3_newvoice_05.wav",
+          "audioMethod2": "./audio/giong3/giong3_clone5.wav"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Voice 4",
+      "defaultAudio": "./audio/default/giong4.mp3",
+      "texts": [
+        {
+          "id": 1,
+          "text": "Sentence 1",
+          "content": "Ngày xửa, ngày xưa, có một cô bé thường hay quàng chiếc khăn màu đỏ, vì vậy, mọi người gọi cô là cô bé quàng khăn đỏ",
+          "audioMethod1": "./audio/giong4/giong4_newvoice_01.wav",
+          "audioMethod2": "./audio/giong4/giong4_clone1.wav"
+        },
+        {
+          "id": 2,
+          "text": "Sentence 2",
+          "content": "May sao, lúc đó bác thợ săn đi ngang thấy thế. Bác giơ súng lên định bắn.",
+          "audioMethod1": "./audio/giong4/giong4_newvoice_02.wav",
+          "audioMethod2": "./audio/giong4/giong4_clone2.wav"
+        },
+        {
+          "id": 3,
+          "text": "Sentence 3",
+          "content": "Cô bé quàng khăn đỏ ơi, lúc nãy tôi nghe mẹ cô dặn đi đường thẳng, đừng đi đường vòng cơ mà.",
+          "audioMethod1": "./audio/giong4/giong4_newvoice_03.wav",
+          "audioMethod2": "./audio/giong4/giong4_clone3.wav"
+        },
+        {
+          "id": 4,
+          "text": "Sentence 4",
+          "content": "Trên đường đi, cô thấy đường vòng qua rừng có nhiều hoa, nhiều bướm, không nghe lời mẹ dặn, cô tung tăng đi theo đường đó.",
+          "audioMethod1": "./audio/giong4/giong4_newvoice_04.wav",
+          "audioMethod2": "./audio/giong4/giong4_clone4.wav"
+        },
+        {
+          "id": 5,
+          "text": "Sentence 5",
+          "content": "Nghe xong, chó sói bỏ cô bé quàng khăn đỏ ở đấy rồi chạy một mạch đến nhà bà ngoại cô bé.",
+          "audioMethod1": "./audio/giong4/giong4_newvoice_05.wav",
+          "audioMethod2": "./audio/giong4/giong4_clone5.wav"
+        }
+      ]
+    },
+{
+    "id": 5,
+    "name": "Voice 5",
+    "defaultAudio": "./audio/default/giong5.m4a",
+    "texts": [
+      {
+        "id": 1,
+        "text": "Sentence 1",
+        "content": "Ngày xửa, ngày xưa, có một cô bé thường hay quàng chiếc khăn màu đỏ, vì vậy, mọi người gọi cô là cô bé quàng khăn đỏ",
+        "audioMethod1": "./audio/giong5/giong5_newvoice_01.wav",
+        "audioMethod2": "./audio/giong5/giong5_clone1.wav"
+      },
+      {
+        "id": 2,
+        "text": "Sentence 2",
+        "content": "May sao, lúc đó bác thợ săn đi ngang thấy thế. Bác giơ súng lên định bắn.",
+        "audioMethod1": "./audio/giong5/giong5_newvoice_02.wav",
+        "audioMethod2": "./audio/giong5/giong5_clone2.wav"
+      },
+      {
+        "id": 3,
+        "text": "Sentence 3",
+        "content": "Cô bé quàng khăn đỏ ơi, lúc nãy tôi nghe mẹ cô dặn đi đường thẳng, đừng đi đường vòng cơ mà.",
+        "audioMethod1": "./audio/giong5/giong5_newvoice_03.wav",
+        "audioMethod2": "./audio/giong5/giong5_clone3.wav"
+      },
+      {
+        "id": 4,
+        "text": "Sentence 4",
+        "content": "Trên đường đi, cô thấy đường vòng qua rừng có nhiều hoa, nhiều bướm, không nghe lời mẹ dặn, cô tung tăng đi theo đường đó.",
+        "audioMethod1": "./audio/giong5/giong5_newvoice_04.wav",
+        "audioMethod2": "./audio/giong5/giong5_clone4.wav"
+      },
+      {
+        "id": 5,
+        "text": "Sentence 5",
+        "content": "Nghe xong, chó sói bỏ cô bé quàng khăn đỏ ở đấy rồi chạy một mạch đến nhà bà ngoại cô bé.",
+        "audioMethod1": "./audio/giong5/giong5_newvoice_05.wav",
+        "audioMethod2": "./audio/giong5/giong5_clone5.wav"
+      }
+    ]
+  }
+    
+
+
+  ]
+}
