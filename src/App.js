@@ -75,7 +75,7 @@ const App = () => {
         VCIVS: Integrating Voice Cloning Technology to Improve Vietnamese
         Storytelling
       </h1>
-      <h4>Hoai-Thuong Dang, Thanh-Lam Bui, and Xuan-Nam Cao</h4>
+      <h4>Hoai-Thuong Dang</h4>
 
       <h1 style={{ marginTop: 100 }}>Voice Demo</h1>
       <div id="voice-list">
@@ -158,32 +158,6 @@ const App = () => {
 
           {/* Thêm các đường dẫn ảnh khác vào đây */}
         </Slider>
-      </div>
-      <div style={{ marginTop: 200 }}>
-        <h1>Contact</h1>
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: screens.lg ? "1fr 1fr 1fr" : "1fr",
-            gap: 16,
-          }}
-        >
-          <div>
-            <h3>Contact Person 1</h3>
-            <p>Name: Hoai-Thuong Dang</p>
-            <p>Email: dghthuong@hcmus.edu.vn</p>
-          </div>
-          <div>
-            <h3>Contact Person 2</h3>
-            <p>Name: Xuan-Nam Cao</p>
-            <p>Email: cxnam@fit.hcmus.edu.vn</p>
-          </div>
-          <div>
-            <h3>Contact Person 3</h3>
-            <p>Name: Thanh-Lam Bui</p>
-            <p>Email: btlam20@clc.fitus.edu.vn</p>
-          </div>
-        </div>
       </div>
     </div>
   );
